@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 180 180" style="enable-background:new 0 0 180 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{mask:url(#b_1_);fill:#7700AA;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st5{mask:url(#b_2_);fill:#7700AA;stroke:#616161;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M86,21.8h8c2.8,0,5,2.2,5,5v1c0,3.3-2.7,6-6,6h-6c-3.3,0-6-2.7-6-6v-1C81,24,83.2,21.8,86,21.8z"/>
+	<g transform="translate(36 18)">
+		<g>
+			<path id="a_1_" class="st0" d="M54,3.8l54,128H0L54,3.8z"/>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-12.5" y="-115.7" width="191" height="191">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-12.5" y="-115.7" width="191" height="191" id="b_1_">
+			<g class="st1">
+				<path id="a_2_" class="st2" d="M54,3.8l54,128H0L54,3.8z"/>
+			</g>
+		</mask>
+		<path class="st3" d="M83,74.8c-52.5,0-95-42.5-95-95s42.5-95,95-95s95,42.5,95,95S135.5,74.8,83,74.8z M84,48.8
+			c38.7,0,70-31.3,70-70s-31.3-70-70-70s-70,31.3-70,70S45.3,48.8,84,48.8z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-25.5" y="-61.7" width="191" height="191">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-25.5" y="-61.7" width="191" height="191" id="b_2_">
+			<g class="st4">
+				<path id="a_3_" class="st2" d="M54,3.8l54,128H0L54,3.8z"/>
+			</g>
+		</mask>
+		<path class="st5" d="M70,128.8c-52.5,0-95-42.5-95-95s42.5-95,95-95s95,42.5,95,95S122.5,128.8,70,128.8z M71,102.8
+			c38.7,0,70-31.3,70-70s-31.3-70-70-70S1-5.9,1,32.8S32.3,102.8,71,102.8z"/>
+	</g>
+	<path class="st0" d="M39,147.8h102c7.2,0,13,5.8,13,13H26C26,153.6,31.8,147.8,39,147.8z"/>
+	<path class="st0" d="M81,43.6C67.6,77.3,50,107.2,40.2,142 M84.6,34.5c-15.3-14.9,21.8-17.6,11.6-3"/>
+	<path class="st0" d="M96.3,37.4c5.3,12.6,10.2,25.5,16,37.9c1.4,3,4.2,5.2,5.4,8.2c4.8,12.6,7.3,26.9,12.5,38.5
+		c10.3,22.7,10.3,20.4,13,25.5"/>
+	<path class="st0" d="M36.8,149.8c-4.6,0.7-17.9,10.9-6.4,11.4c21.4,1,42.8,2.2,64.2,2.1c20.8-0.1,39.2-5,59.8-0.1"/>
+	<path class="st0" d="M81.6,56.6c10.3,6.5,16.4,7.9,25.8,9.7 M66.5,77.2C90.6,92.3,92,88.6,114.7,92.8 M57.3,101
+		c24.6,16.1,39.7,25.4,69.6,19 M60.2,135.4c23.2,10.3,50.7,16.9,75.5,7.2"/>
+</g>
+</svg>

@@ -1,0 +1,349 @@
+[10-Dec-2017 12:46:08 Europe/Istanbul] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/emrahyuksel/public_html/c2c/nedmin/netting/baglan.php:8
+Stack trace:
+#0 /home/emrahyuksel/public_html/c2c/nedmin/netting/baglan.php(8): PDO->__construct('mysql:host=loca...', 'root', '12345678')
+#1 {main}
+  thrown in /home/emrahyuksel/public_html/c2c/nedmin/netting/baglan.php on line 8
+[13-Dec-2017 17:09:58 Europe/Istanbul] PHP Warning:  unlink(../../dimg/magaza-fotoyok.png): No such file or directory in /home/emrahyuksel/public_html/c2c/nedmin/netting/adminislem.php on line 280
+[13-Dec-2017 23:32:23 Europe/Istanbul] PHP Warning:  unlink(../../dimg/magaza-fotoyok.png): No such file or directory in /home/emrahyuksel/public_html/c2c/nedmin/netting/adminislem.php on line 280
+[14-Dec-2017 13:36:23 Europe/Istanbul] PHP Warning:  unlink(../../dimg/magaza-fotoyok.png): No such file or directory in /home/emrahyuksel/public_html/c2c/nedmin/netting/adminislem.php on line 280
+[29-Dec-2017 14:01:47 Europe/Istanbul] PHP Warning:  unlink(../../dimg/magaza-fotoyok.png): No such file or directory in /home/emrahyuksel/public_html/c2c/nedmin/netting/adminislem.php on line 280
+[19-Mar-2021 21:17:18 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:17:18 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:17:18 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:17:28 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:17:28 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:17:28 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:19:24 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:19:24 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:19:24 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:19:49 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:19:49 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:19:49 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 21:19:49 UTC] PHP Warning:  unlink(../../assets/img/hero/2288527079209912599227209255752585426784Varlık 4.png): No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 427
+[19-Mar-2021 22:17:23 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:17:23 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:17:23 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:17:34 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:17:34 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:17:34 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:35:44 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:35:44 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:35:44 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:36:04 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/adminislem.php on line 6
+[19-Mar-2021 22:36:04 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/adminislem.php on line 6
+[19-Mar-2021 22:36:04 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/adminislem.php on line 6
+[19-Mar-2021 22:36:24 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:36:24 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:36:24 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:39:32 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:39:32 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:39:32 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:43:51 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:43:51 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:43:51 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:45:24 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:45:24 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:45:24 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:45:39 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/adminislem.php on line 6
+[19-Mar-2021 22:45:39 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/adminislem.php on line 6
+[19-Mar-2021 22:45:39 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/adminislem.php on line 6
+[19-Mar-2021 22:45:39 UTC] PHP Warning:  unlink(../../assets/img/21599logo.png): No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/adminislem.php on line 61
+[19-Mar-2021 22:47:10 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:47:10 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:47:10 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:47:17 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:47:17 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:47:17 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:50:39 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:50:39 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:50:39 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:50:46 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:50:46 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:50:46 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:51:07 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:51:07 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 22:51:07 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:20 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:20 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:20 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:29 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:43 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:43 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:22:43 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:29:45 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:29:45 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:29:45 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:34:10 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:34:10 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:34:10 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:34:43 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:34:43 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:34:43 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:35:07 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:35:07 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:35:07 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:35:35 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:35:35 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:35:35 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:02 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:02 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:02 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:21 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:21 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:21 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:50 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:50 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:41:50 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:42:15 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:42:15 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[19-Mar-2021 23:42:15 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:44:25 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:44:25 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:44:25 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:45:59 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:45:59 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:45:59 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:47:14 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:47:14 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 08:47:14 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:04:47 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:04:47 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:04:47 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:04:57 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:04:57 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:04:57 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:19:55 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:19:55 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:19:55 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:37:24 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:37:24 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:37:24 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:37:41 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:37:41 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 09:37:41 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:18:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:18:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:18:29 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:20:28 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:20:28 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:20:28 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:27:12 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:27:12 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:27:12 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:27:48 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:27:48 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:27:48 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:28:34 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:28:34 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:28:34 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:28:34 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:28:34 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:28:34 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:32:30 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:32:30 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:32:30 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:33:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:33:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:33:29 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:36:57 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:36:57 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:36:57 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:37:21 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:37:21 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:37:21 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:41:12 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:41:12 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:41:12 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:47:43 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:47:43 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:47:43 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:56:50 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:56:50 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 10:56:50 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:00:07 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:00:07 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:00:07 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:02:52 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:02:52 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:02:52 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:07:22 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:07:22 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:07:22 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:18:11 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:18:11 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:18:11 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:26:31 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:26:31 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:26:31 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:34:48 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:34:48 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:34:48 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:39:58 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:39:58 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:39:58 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:42:33 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:42:33 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:42:33 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:44:01 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:44:01 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:44:01 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:45:16 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:45:16 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:45:16 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:48:50 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:48:50 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:48:50 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:50:30 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:50:30 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:50:30 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:53:36 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:53:36 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:53:36 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:55:44 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:55:44 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 11:55:44 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 12:12:55 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 12:12:55 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 12:12:55 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 12:13:56 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 12:13:56 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 12:13:56 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 13:58:28 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 13:58:28 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 13:58:28 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 13:58:50 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 13:58:50 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 13:58:50 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 14:25:15 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 14:25:15 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 14:25:15 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:00:03 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:00:03 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:00:03 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:01:17 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:01:17 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:01:17 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:02:36 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:02:36 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:02:36 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:04:44 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:04:44 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:04:44 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:05:38 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:05:38 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:05:38 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:13:07 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:13:07 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:13:07 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:14:39 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:14:39 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:14:39 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:16:41 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:16:41 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 15:16:41 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:21:49 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:21:49 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:21:49 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:21:55 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:21:55 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:21:55 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:28:04 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:28:04 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:28:04 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:28:18 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:28:18 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[20-Mar-2021 20:28:18 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:14:39 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:14:39 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:14:39 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:14:48 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:14:48 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:14:48 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:17:55 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:17:55 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:17:55 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 11:17:55 UTC] PHP Warning:  unlink(../../assets/img/hero/21077255262340528830Varlık 4.png): No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 429
+[21-Mar-2021 12:34:23 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 12:34:23 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 12:34:23 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 12:34:32 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 12:34:32 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 12:34:32 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:16:56 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:16:56 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:16:56 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:17:03 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:17:03 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:17:03 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:17:44 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:17:44 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:17:44 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:47:49 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:47:49 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 13:47:49 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 15:24:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 15:24:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 15:24:29 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:31:30 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:31:30 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:31:30 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:35:12 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:35:12 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:35:12 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:37:41 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:37:41 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[21-Mar-2021 16:37:41 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:29 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:29 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:35 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:35 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:35 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:59 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:59 UTC] PHP Warning:  include(../production/fonksiyon.php): failed to open stream: No such file or directory in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 00:47:59 UTC] PHP Warning:  include(): Failed opening '../production/fonksiyon.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 6
+[22-Mar-2021 11:31:32 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 74
+[22-Mar-2021 11:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 57
+[22-Mar-2021 11:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 57
+[22-Mar-2021 11:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 57
+[22-Mar-2021 11:48:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 74
+[22-Mar-2021 11:48:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 74
+[22-Mar-2021 13:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 56
+[22-Mar-2021 13:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 56
+[22-Mar-2021 13:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 56
+[22-Mar-2021 13:21:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 56
+[22-Mar-2021 13:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 56
+[22-Mar-2021 13:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 56
+[22-Mar-2021 13:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/cekcekamcacom/public_html/nedmin/netting/islem.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/cekcekamcacom/public_html/nedmin/netting/islem.php on line 56
